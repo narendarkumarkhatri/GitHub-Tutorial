@@ -1,1 +1,1 @@
-# UrduSearchingDictionory
+# UrduSearchingDictionary
